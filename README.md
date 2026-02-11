@@ -70,7 +70,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffe-cappuccino&show_icons=true&layout=compact&count_private=true&theme=rose_pine" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffe-cappuccino&layout=compact&langs_count=8&theme=rose_pine&cache_seconds=1800" alt="Most Used Languages"/>
+
 </p>
 
 <p align="center">
